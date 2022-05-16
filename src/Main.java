@@ -1,3 +1,4 @@
+//This Program is to take input in Java
 import java.util.Scanner;
 
 public class Main {
