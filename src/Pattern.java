@@ -1,5 +1,5 @@
 /*
-Print following pattern
+Print the following pattern in Java
 
 1
 * *
